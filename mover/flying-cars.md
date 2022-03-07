@@ -45,7 +45,7 @@ XPENG
 [https://opener.aero/](https://opener.aero)
 {% endembed %}
 
-![https://www.firenzelanciare.com/](<../.gitbook/assets/image (3).png>)
+![https://www.firenzelanciare.com/](<../.gitbook/assets/image (3) (1).png>)
 
 {% embed url="https://youtu.be/YlPfR_igEbY" %}
 [https://www.bellwether-industries.com/](https://www.bellwether-industries.com)
