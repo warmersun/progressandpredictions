@@ -7,7 +7,7 @@
 * [The Story of The Creator of Chess](introduction/the-story-of-the-creator-of-chess.md)
 * [Characteristics of Exponential Functions](introduction/characteristics-of-exponential-functions.md)
 * [Every Doubling is Greater Than All Previous Doublings Combined](introduction/every-doubling-is-greater-than-all-previous-doublings-combined.md)
-* [🚧 Looking at It Backwards](introduction/looking-at-it-backwards.md)
+* [Looking at It Backwards](introduction/looking-at-it-backwards.md)
 * [🚧 We Are Not Wired Like This](introduction/we-are-not-wired-like-this.md)
 * [Why Did Some Attempts At Innovation Fail?](introduction/why-did-some-attempts-at-innovation-fail.md)
 * [🚧 Moore's Law](introduction/moores-law.md)
