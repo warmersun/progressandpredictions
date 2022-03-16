@@ -13,7 +13,8 @@
   * [Example: PC Pioneers on the Internet](introduction/we-are-not-wired-like-this/example-pc-pioneers-on-the-internet.md)
   * [Opinion: Daniel Kahneman: ‘Clearly AI is going to win.'](introduction/we-are-not-wired-like-this/opinion-daniel-kahneman-clearly-ai-is-going-to-win..md)
 * [Why Did Some Attempts At Innovation Fail?](introduction/why-did-some-attempts-at-innovation-fail.md)
-* [🚧 Moore's Law](introduction/moores-law.md)
+* [Moore's Law](introduction/moores-law.md)
+* [Law of Accelerating Returns](introduction/law-of-accelerating-returns.md)
 * [🚧 Quantum Computing](introduction/quantum-computing.md)
 * [😅 Collect Pictures of Old Computers](introduction/collect-pictures-of-old-computers.md)
 
