@@ -12,10 +12,10 @@ Ray Kurzweil extended it by looking back historically
 
 and predicted it will continue, going forward
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 Kurzweil's predictions were made decades ago so by now he has an excellent [track record](https://www.kurzweilai.net/how-my-predictions-are-faring-an-update-by-ray-kurzweil).
 
-![](<../.gitbook/assets/image (5).png>) extending Moorle's Law in time and scope
+![](<../.gitbook/assets/image (5) (1).png>) extending Moorle's Law in time and scope
 
 Kurzweil also extended Moore's Law in scope: it's not just about computers but abut every technology that becomes "information enabled".

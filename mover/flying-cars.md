@@ -19,7 +19,7 @@ Some are autonomous, some are piloted and assisted by automation.
 XPENG
 {% endembed %}
 
-![https://en.xiaopeng.com/news/news\_info/4061.html](<../.gitbook/assets/image (1) (1).png>)
+![https://en.xiaopeng.com/news/news\_info/4061.html](<../.gitbook/assets/image (1) (1) (1).png>)
 
 {% embed url="https://youtu.be/6mbir6u_AHo" %}
 [https://youtu.be/6mbir6u\_AHo](https://youtu.be/6mbir6u\_AHo)
@@ -51,7 +51,7 @@ XPENG
 [https://www.bellwether-industries.com/](https://www.bellwether-industries.com)
 {% endembed %}
 
-![https://wisk.aero/ (purchased by Boeing)](<../.gitbook/assets/image (5) (1).png>)
+![https://wisk.aero/ (purchased by Boeing)](<../.gitbook/assets/image (5) (1) (1).png>)
 
 [Uber Air | Uber ElevateAnnounced December 2020, Joby Aviation will acquire Uber Elevate. The two parent companies have agreed to integrate their respective services into each other's apps, enabling seamless integration between ground and air travel for future customers. This deal allows Uber to deepen our partnership with Joby and accelerate the path to market for these technologies and moves the Elevate team to Joby.](https://www.uber.com/ca/en/elevate/)
 
