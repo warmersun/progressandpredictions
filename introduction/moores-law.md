@@ -4,7 +4,7 @@
 
 In 1965 Gordon Moore posited a doubling every year in the number of components per integrated circuit, and projected this rate of growth would continue for at least another decade.
 
-![](<../.gitbook/assets/image (2).png>) Moore's Law is exponential
+![](<../.gitbook/assets/image (2) (1).png>) Moore's Law is exponential
 
 Ray Kurzweil extended it by looking back historically
 

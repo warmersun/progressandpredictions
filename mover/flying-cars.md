@@ -29,7 +29,7 @@ XPENG
 [https://youtu.be/dOhM9xlwOKE](https://youtu.be/dOhM9xlwOKE)
 {% endembed %}
 
-![https://www.volocopter.com/](<../.gitbook/assets/image (2) (1).png>)
+![https://www.volocopter.com/](<../.gitbook/assets/image (2) (1) (1).png>)
 
 {% embed url="https://youtu.be/4wbFw165ar0" %}
 [https://www.jobyaviation.com/](https://www.jobyaviation.com)
@@ -45,7 +45,7 @@ XPENG
 [https://opener.aero/](https://opener.aero)
 {% endembed %}
 
-![https://www.firenzelanciare.com/](<../.gitbook/assets/image (3) (1) (1).png>)
+![https://www.firenzelanciare.com/](<../.gitbook/assets/image (3) (1) (1) (1).png>)
 
 {% embed url="https://youtu.be/YlPfR_igEbY" %}
 [https://www.bellwether-industries.com/](https://www.bellwether-industries.com)

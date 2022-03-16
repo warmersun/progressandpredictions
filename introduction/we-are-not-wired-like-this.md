@@ -19,3 +19,12 @@ This all has changed. The world is not local and linear anymore.
 The world is no longer local and linear; only our thinking is. True transcendence means overcoming the evolved limitations of our brain - a bit like Nash did it in A Beautiful Mind. We need to develop skills to think global and exponential.
 
 We need cognitive tools to deal with it.
+
+## Two cases where people do meet exponential functions
+
+* viruses
+* credit card debt
+
+![](<../.gitbook/assets/image (2).png>)
+
+![](<../.gitbook/assets/image (6).png>)
