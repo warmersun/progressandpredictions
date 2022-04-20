@@ -5,6 +5,7 @@
 ## Introduction
 
 * [The Story of The Creator of Chess](introduction/the-story-of-the-creator-of-chess.md)
+* [Paper folding](introduction/paper-folding.md)
 * [Characteristics of Exponential Functions](introduction/characteristics-of-exponential-functions.md)
 * [Every Doubling is Greater Than All Previous Doublings Combined](introduction/every-doubling-is-greater-than-all-previous-doublings-combined.md)
 * [Looking at It Backwards](introduction/looking-at-it-backwards.md)
