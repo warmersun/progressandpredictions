@@ -17,3 +17,5 @@ We are **using better tools to make better tools.**
 
 * How did Bill Gates and Microsoft write an operating system without a PC?&#x20;
 * How did Intel design a microprocessor integrated circuit chip … without a microprocessor?
+
+{% embed url="https://www.ted.com/talks/ray_kurzweil_the_accelerating_power_of_technology" %}
