@@ -54,3 +54,8 @@
 * [Introduction](power/introduction.md)
 * [😅 Decentralize](power/decentralize.md)
 * [🚧 100% of Energy Needs Met From Solar](power/100-of-energy-needs-met-from-solar.md)
+
+## link
+
+* [Introduction](link/introduction.md)
+* [😅 Collect Use Cases](link/collect-use-cases.md)
