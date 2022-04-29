@@ -2,7 +2,7 @@
 
 m not sure if you remeber Better Place… it flopped, after burning 1,000,000,000$ investment. (tha one **b**illion dollars); whereas Tesla seems to be doing great, (especially here in Vancouver I see more and more on the roads).
 
-![](<../.gitbook/assets/image (4) (1) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1) (1).png>)
 
 If we look at the founders… they are both freaking smart:
 

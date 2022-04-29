@@ -8,7 +8,7 @@ In 1965 Gordon Moore posited a doubling every year in the number of components p
 
 Ray Kurzweil extended it by looking back historically
 
-![](<../.gitbook/assets/image (4) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1).png>)
 
 and predicted it will continue, going forward
 

@@ -61,3 +61,8 @@
 
 * [Introduction](link/introduction.md)
 * [😅 Collect Use Cases](link/collect-use-cases.md)
+* [Virtual Reality (VR)](link/virtual-reality-vr.md)
+* [Augmented Reality (AR)](link/augmented-reality-ar.md)
+* [Mixed Reality (MR)](link/mixed-reality-mr.md)
+* [Spatial Web](link/spatial-web.md)
+* [Metaverse](link/metaverse.md)

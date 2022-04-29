@@ -2,7 +2,7 @@
 
 Even the pioneers of personal computing almost missed the boat in realizing the similar exponential growth of network communications.
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
 
 ## Bill Gates memo 1995: the Internet Tidal Wave
 
