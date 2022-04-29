@@ -32,8 +32,10 @@
 
 * [Introduction](mover/introduction.md)
 * [Connecting All 7+ Billion People](mover/connecting-all-7+-billion-people.md)
-* [😅 Self-Driving Vehicles](mover/self-driving-vehicles.md)
-* [Flying Cars](mover/flying-cars.md)
+* [😅 Self-Driving Vehicles](mover/self-driving-vehicles/README.md)
+  * [our collection](https://warmersun.notion.site/Self-Driving-Vehicles-9dec5067ed1e4a84821b55cb56eca02b)
+* [Flying Cars](mover/flying-cars/README.md)
+  * [our collection](https://warmersun.notion.site/Drones-2d593d5cd3604edab1326180cdd68bf0)
 * [Point to Point](mover/point-to-point.md)
 * [Private Space Flight](mover/private-space-flight.md)
 
