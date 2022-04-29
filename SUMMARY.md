@@ -52,12 +52,6 @@
 * [🚧 End of Disease](lifeforce/end-of-disease.md)
 * [😅 Can We Live Forever? Should We?](lifeforce/can-we-live-forever-should-we.md)
 
-## Power
-
-* [Introduction](power/introduction.md)
-* [😅 Decentralize](power/decentralize.md)
-* [🚧 100% of Energy Needs Met From Solar](power/100-of-energy-needs-met-from-solar.md)
-
 ## link
 
 * [Introduction](link/introduction.md)
@@ -68,3 +62,9 @@
 * [😅 Collect Use Cases](link/collect-use-cases.md)
 * [Spatial Web](link/spatial-web.md)
 * [Metaverse](link/metaverse.md)
+
+## Power
+
+* [Introduction](power/introduction.md)
+* [😅 Decentralize](power/decentralize.md)
+* [🚧 100% of Energy Needs Met From Solar](power/100-of-energy-needs-met-from-solar.md)
