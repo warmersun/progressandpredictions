@@ -8,6 +8,10 @@ Quantum computers on the other hand take advantage of phenomena in quantum physi
 
 They allow applications where instead of doing a calculation for for a large number of possibilities one after the other the calculation is done for all possible inputs all at once.
 
+This is a great explainer from 2016
+
+{% embed url="https://youtu.be/LP__QwGZScg" %}
+
 ## Quantum Supremacy
 
 The term quantum supremacy means a point in time where quantum computers have reached a point that they can do a calculation significantly faster than even the biggest baddest super computer could.
