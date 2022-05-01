@@ -24,4 +24,18 @@ The choice of materials is broad:
 
 different plastics, resins, metals - aluminum, titanium, stainless steel, ceramics, wood, carbon fiber, paper, wax
 
-You can have it be flexible or conductive, full color, medical grade or jewlery.
+You can have it be flexible or conductive, full color, medical grade or jewelry.
+
+## The importance of 3D design
+
+Imagine of you only looked at color pictures in book and magazines or online... but would not have your own camera or would not be able to paint (and then scan it).
+
+Imagine if you could only print documents others have written.
+
+With 3D printing it's similar. There are sites where you can download 3D models from... but it's way cooler if you can create your own.
+
+Plus, 3D design also comes handy to build virtual world with [VR](../link/virtual-reality-vr.md).
+
+{% embed url="https://youtu.be/xNqs_S-zEBY" %}
+Elon Musk showing how they design rocket engines - using VR and 3D Printing
+{% endembed %}
