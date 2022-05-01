@@ -10,7 +10,7 @@ When you put your money in the bank… of course it matters.
 
 In the big scheme of things there is no difference as long as we take a number greater than one and keep multiplying it with itself repeatedly we see a similar curve:
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 ## Slow exponential growth is sub-linear
 
