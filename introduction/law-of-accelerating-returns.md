@@ -13,7 +13,7 @@ description: Ray Kurzweil - extending and generalizing Moore's Law
 
 We are **using better tools to make better tools.**
 
-![](<../.gitbook/assets/image (6) (1).png>)
+![](<../.gitbook/assets/image (6) (1) (1).png>)
 
 * How did Bill Gates and Microsoft write an operating system without a PC?&#x20;
 * How did Intel design a microprocessor integrated circuit chip … without a microprocessor?

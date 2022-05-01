@@ -16,7 +16,7 @@
 * [Why Did Some Attempts At Innovation Fail?](introduction/why-did-some-attempts-at-innovation-fail.md)
 * [Moore's Law](introduction/moores-law.md)
 * [Law of Accelerating Returns](introduction/law-of-accelerating-returns.md)
-* [🚧 Quantum Computing](introduction/quantum-computing.md)
+* [Quantum Computing](introduction/quantum-computing.md)
 * [😅 Collect Pictures of Old Computers](introduction/collect-pictures-of-old-computers.md)
 
 ## Automator

@@ -27,4 +27,4 @@ We need cognitive tools to deal with it.
 
 ![](<../.gitbook/assets/image (2).png>)
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
