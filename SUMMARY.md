@@ -53,7 +53,7 @@
 * [🚧 End of Disease](lifeforce/end-of-disease.md)
 * [Hallmarks of Aging](lifeforce/hallmarks-of-aging.md)
 * [Plant-based Foods](lifeforce/plant-based-foods.md)
-* [Cultured Meat (Meet?)](lifeforce/cultured-meat-meet.md)
+* [Plant Based Meat (Meet?)](lifeforce/plant-based-meat-meet.md)
 * [😅 Can We Live Forever? Should We?](lifeforce/can-we-live-forever-should-we.md)
 
 ## link

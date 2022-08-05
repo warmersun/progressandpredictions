@@ -32,23 +32,23 @@ XPENG
 ![https://www.volocopter.com/](<../../.gitbook/assets/image (2) (1) (1).png>)
 
 {% embed url="https://youtu.be/4wbFw165ar0" %}
-[https://www.jobyaviation.com/](https://www.jobyaviation.com)
+[https://www.jobyaviation.com/](https://www.jobyaviation.com/)
 {% endembed %}
 
 ![https://www.airev.aero/](../../.gitbook/assets/image.png)
 
 {% embed url="https://youtu.be/FzhREYOK0oo" %}
-[https://www.jetsonaero.com/](https://www.jetsonaero.com)
+[https://www.jetsonaero.com/](https://www.jetsonaero.com/)
 {% endembed %}
 
 {% embed url="https://youtu.be/I2D4CS6YTXk" %}
-[https://opener.aero/](https://opener.aero)
+[https://opener.aero/](https://opener.aero/)
 {% endembed %}
 
 ![https://www.firenzelanciare.com/](<../../.gitbook/assets/image (3) (1) (1) (1).png>)
 
 {% embed url="https://youtu.be/YlPfR_igEbY" %}
-[https://www.bellwether-industries.com/](https://www.bellwether-industries.com)
+[https://www.bellwether-industries.com/](https://www.bellwether-industries.com/)
 {% endembed %}
 
 ![https://wisk.aero/ (purchased by Boeing)](<../../.gitbook/assets/image (5) (1) (1).png>)

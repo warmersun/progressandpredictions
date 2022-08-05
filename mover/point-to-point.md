@@ -13,5 +13,5 @@ Uber Elevate
 ### Go Down ... and dig
 
 {% embed url="https://youtu.be/tfV8z2JY_bI" %}
-[https://www.boringcompany.com/](https://www.boringcompany.com)
+[https://www.boringcompany.com/](https://www.boringcompany.com/)
 {% endembed %}

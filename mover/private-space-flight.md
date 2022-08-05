@@ -5,11 +5,11 @@
 {% endembed %}
 
 {% embed url="https://youtu.be/ZPrB3WvnZpE" %}
-[**Virgin Galactic**](https://www.virgingalactic.com)'s First Fully Crewed Spaceflight #Unity22
+[**Virgin Galactic**](https://www.virgingalactic.com/)'s First Fully Crewed Spaceflight #Unity22
 {% endembed %}
 
 {% embed url="https://youtu.be/SvXmdgvcjkQ" %}
-[**Blue Origin**](https://www.blueorigin.com)'s New Shepard Mission NS-19
+[**Blue Origin**](https://www.blueorigin.com/)'s New Shepard Mission NS-19
 {% endembed %}
 
 {% embed url="https://youtu.be/3pv01sSq44w" %}

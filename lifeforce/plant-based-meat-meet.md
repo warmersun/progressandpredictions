@@ -1,4 +1,4 @@
-# Cultured Meat (Meet?)
+# Plant Based Meat (Meet?)
 
 What kind of foods can you find plat based alternative for?
 
