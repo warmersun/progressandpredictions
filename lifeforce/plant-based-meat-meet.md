@@ -16,3 +16,6 @@ What kind of foods can you find plat based alternative for?
   * [https://goodcatchfoods.com/our-products/](https://goodcatchfoods.com/our-products/)
 * sushi
   * [https://oceanhuggerfoods.com/](https://oceanhuggerfoods.com/)
+* milk chocolate
+  * [https://www.moofreechocolates.com/](https://www.moofreechocolates.com/)
+
