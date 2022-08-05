@@ -14,3 +14,5 @@ What kind of foods can you find plat based alternative for?
 * fish fillet
   * [https://www.gardein.com/fishless](https://www.gardein.com/fishless)
   * [https://goodcatchfoods.com/our-products/](https://goodcatchfoods.com/our-products/)
+* sushi
+  * [https://oceanhuggerfoods.com/](https://oceanhuggerfoods.com/)
