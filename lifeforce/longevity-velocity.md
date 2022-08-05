@@ -1,2 +1,2 @@
-# 🚧 Longevity Escape Velocity
+# 🚧 Longevity Velocity
 

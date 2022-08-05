@@ -32,4 +32,4 @@ How? Here are some ideas that have been tried
 
 ![](https://media1-production-mightynetworks.imgix.net/asset/34867334/1644356872928.png?ixlib=rails-0.3.0\&fm=jpg\&q=75\&auto=format\&w=1400\&h=1400\&fit=max\&impolicy=ResizeCrop\&constraint=downsize\&aspect=fit)
 
-[https://www.starlink.com/](https://www.starlink.com/)
+[https://www.starlink.com/](https://www.starlink.com)
