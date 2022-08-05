@@ -49,7 +49,7 @@
 ## Lifeforce
 
 * [Introduction](lifeforce/introduction.md)
-* [🚧 Longevity Velocity](lifeforce/longevity-velocity.md)
+* [🚧 Longevity Escape Velocity](lifeforce/longevity-escape-velocity.md)
 * [🚧 End of Disease](lifeforce/end-of-disease.md)
 * [😅 Can We Live Forever? Should We?](lifeforce/can-we-live-forever-should-we.md)
 
