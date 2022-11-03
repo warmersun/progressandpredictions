@@ -10,5 +10,3 @@ A real life example of how counter intuitive this is was the Human Genome Projec
 The good news however was that progress during this first seven years showed doubling of sequenced data year after year and sure enough the project was completed in time (actually even faster, in 13 years).
 
 BTW the cost of sequencing a genome is also dropping exponentially. The very first oe cost 2.7 billion dollars. Nowadays you can get your genome sequenced for less than 500$.
-
-{% embed url="https://ourworldindata.org/grapher/number-of-human-genome-base-pairs-sequenced-per-us" %}

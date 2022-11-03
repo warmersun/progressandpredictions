@@ -18,6 +18,8 @@
 
 Watch [Countdown: Inspiration 4 Mission to Space on Netflix](https://www.netflix.com/title/81441273)
 
+{% embed url="https://ourworldindata.org/grapher/cumulative-number-of-objects-launched-into-outer-space?country=~OWID_WRL&yScale=log" %}
+
 ### Takeaways
 
 There were private (rich) people before who got to go into space... what's different this time is that the launches, the vehicles, the passengers everything is private companies.
