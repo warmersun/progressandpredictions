@@ -16,6 +16,8 @@ The story goes that all the inventor asked for was to put a single grain of whea
 
 [https://www.wolframalpha.com/input/?i=wheat+and+chessboard+problem](https://www.wolframalpha.com/input/?i=wheat+and+chessboard+problem)
 
+{% embed url="https://www.wolframcloud.com/obj/6451c75e-dade-44c2-841b-cdb1c3302e45" %}
+
 Why don't you look it up on Youtube and post your favorite in the comments?
 
 my favorite:
