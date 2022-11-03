@@ -6,6 +6,10 @@ In 1965 Gordon Moore posited a doubling every year in the number of components p
 
 <img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="original"> Moore's Law is exponential
 
+{% embed url="https://ourworldindata.org/grapher/transistors-per-microprocessor" %}
+
+<figure><img src="../.gitbook/assets/Transistor-Count-over-time.png" alt=""><figcaption></figcaption></figure>
+
 Ray Kurzweil extended it by looking back historically
 
 ![](<../.gitbook/assets/image (4) (1) (1).png>)
@@ -29,3 +33,5 @@ a straight line on a chart with logarithmic scale means exponential growth
 {% embed url="https://ourworldindata.org/grapher/ai-training-computation" %}
 a straight line on a chart with logarithmic scale means exponential growth
 {% endembed %}
+
+{% embed url="https://ourworldindata.org/grapher/historical-cost-of-computer-memory-and-storage?country=~OWID_WRL" %}
