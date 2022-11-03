@@ -19,3 +19,13 @@ Kurzweil's predictions were made decades ago so by now he has an excellent [trac
 ![](<../.gitbook/assets/image (5) (1).png>) extending Moorle's Law in time and scope
 
 Kurzweil also extended Moore's Law in scope: it's not just about computers but abut every technology that becomes "information enabled".
+
+## Some Charts of Technological Change
+
+{% embed url="https://ourworldindata.org/grapher/supercomputer-power-flops" %}
+a straight line on a chart with logarithmic scale means exponential growth
+{% endembed %}
+
+{% embed url="https://ourworldindata.org/grapher/ai-training-computation" %}
+a straight line on a chart with logarithmic scale means exponential growth
+{% endembed %}
