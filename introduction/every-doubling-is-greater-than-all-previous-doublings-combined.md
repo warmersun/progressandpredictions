@@ -19,3 +19,6 @@ check this out.
 ### 16 > 1+2+4+8
 
 ![](https://media1-production-mightynetworks.imgix.net/asset/34807018/Slide7.PNG?ixlib=rails-0.3.0\&fm=jpg\&q=75\&auto=format\&w=1400\&h=1400\&fit=max\&impolicy=ResizeCrop\&constraint=downsize\&aspect=fit)
+
+Going back to the wheat on the chessboard example, the first square on the second half of the chessboard has more grain than the entire first half. \
+(The number of grans on the second half of the chessboard is equal to the square if tge number of grains on the first half of the board, plus itself.)
