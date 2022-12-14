@@ -43,7 +43,7 @@
 
 * [Intrduction](portal/intrduction.md)
 * [Internet of Things](portal/internet-of-things.md)
-* [🚧 3D Printing, Additive Manufacturing](portal/3d-printing-additive-manufacturing.md)
+* [3D Printing, Additive Manufacturing](portal/3d-printing-additive-manufacturing.md)
 * [😅 What Questions Should We Ask?](portal/what-questions-should-we-ask.md)
 
 ## Lifeforce
