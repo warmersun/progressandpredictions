@@ -50,7 +50,7 @@
 
 * [Introduction](lifeforce/introduction.md)
 * [Longevity Escape Velocity](lifeforce/longevity-velocity.md)
-* [🚧 End of Disease](lifeforce/end-of-disease.md)
+* [End of Disease](lifeforce/end-of-disease.md)
 * [Hallmarks of Aging](lifeforce/hallmarks-of-aging.md)
 * [Cultured Meat](lifeforce/cultured-meat.md)
 * [Plant Based Meat (Meet?)](lifeforce/plant-based-meat-meet.md)
