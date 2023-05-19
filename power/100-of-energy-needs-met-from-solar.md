@@ -1,4 +1,4 @@
-# 🚧 100% of Energy Needs Met From Solar
+# 100% of Energy Needs Met From Solar
 
 n the coming decade, it is likely that we will see significant advancements in solar power technology. As a result, it is possible that we will be able to meet all of our energy demands from solar power generation.
 

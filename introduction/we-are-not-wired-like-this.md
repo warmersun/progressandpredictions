@@ -20,7 +20,7 @@ The world is no longer local and linear; only our thinking is. True transcendenc
 
 We need cognitive tools to deal with it.
 
-## Two cases where people do meet exponential functions
+## Three cases where people do meet exponential functions
 
 * viruses
 * credit card debt
@@ -28,3 +28,14 @@ We need cognitive tools to deal with it.
 ![](<../.gitbook/assets/image (2).png>)
 
 ![](<../.gitbook/assets/image (6) (1).png>)
+
+
+
+Light attenuation in fog
+
+Light attenuation refers to the gradual decrease in the intensity of light as it travels through a medium. In clean air, light attenuation follows the inverse square law, which means the intensity of light decreases with the square of the distance from the source.
+
+In fog, light attenuation is different due to the presence of tiny water droplets. These droplets scatter and absorb the light more effectively than air molecules in clean air. As a result, the intensity of light decreases at a faster rate, following an exponential pattern, as it travels through the fog.
+
+Fog makes it hard for drivers to see taillights clearly because light fades faster in fog than in clear air. Our minds aren't used to this fast fading, so we might think the car in front is farther away than it really is. This can lead to accidents.
+

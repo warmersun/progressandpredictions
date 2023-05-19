@@ -71,4 +71,4 @@
 
 * [Introduction](power/introduction.md)
 * [😅 Decentralize](power/decentralize.md)
-* [🚧 100% of Energy Needs Met From Solar](power/100-of-energy-needs-met-from-solar.md)
+* [100% of Energy Needs Met From Solar](power/100-of-energy-needs-met-from-solar.md)
