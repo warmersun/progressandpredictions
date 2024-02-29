@@ -1,37 +1,33 @@
 # Moore's Law
 
-![Gordon Earle Moore (born January 3, 1929) is an American businessman, engineer, and the co-founder and chairman emeritus of Intel Corporation.](<../.gitbook/assets/gordon moore.png>)
+![Gordon Earle Moore (born January 3, 1929) is an American businessman, engineer, and the co-founder and chairman emeritus of Intel Corporation.](https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/gordon moore.png)
 
 In 1965 Gordon Moore posited a doubling every year in the number of components per integrated circuit, and projected this rate of growth would continue for at least another decade.
 
-<img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="original"> Moore's Law is exponential
+<img src="https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/exponentialgraph.png" alt="" data-size="original"> Moore's Law is exponential
 
-{% embed url="https://ourworldindata.org/grapher/transistors-per-microprocessor" %}
+[🔗 https://ourworldindata.org/grapher/transistors-per-microprocessor](https://ourworldindata.org/grapher/transistors-per-microprocessor)
 
-<figure><img src="../.gitbook/assets/Transistor-Count-over-time.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/Transistor-Count-over-time.png" alt=""><figcaption></figcaption></figure>
 
 Ray Kurzweil extended it by looking back historically
 
-![](<../.gitbook/assets/image (4) (1) (1).png>)
+![](https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/exp1chart.png)
 
 and predicted it will continue, going forward
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/graphMoore.png)
 
 Kurzweil's predictions were made decades ago so by now he has an excellent [track record](https://www.kurzweilai.net/how-my-predictions-are-faring-an-update-by-ray-kurzweil).
 
-![](<../.gitbook/assets/image (5) (1).png>) extending Moorle's Law in time and scope
+![](https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/multipleexp.png) extending Moorle's Law in time and scope
 
 Kurzweil also extended Moore's Law in scope: it's not just about computers but abut every technology that becomes "information enabled".
 
 ## Some Charts of Technological Change
 
-{% embed url="https://ourworldindata.org/grapher/supercomputer-power-flops" %}
-a straight line on a chart with logarithmic scale means exponential growth
-{% endembed %}
+[🔗 Computational capacity of the fastest supercomputers](https://ourworldindata.org/grapher/supercomputer-power-flops)
 
-{% embed url="https://ourworldindata.org/grapher/ai-training-computation" %}
-a straight line on a chart with logarithmic scale means exponential growth
-{% endembed %}
+[🔗 Computation used to train notable artificial intelligence systems](https://ourworldindata.org/grapher/ai-training-computation)
 
-{% embed url="https://ourworldindata.org/grapher/historical-cost-of-computer-memory-and-storage?country=~OWID_WRL" %}
+[🔗 Historical cost of computer memory and storage](https://ourworldindata.org/grapher/historical-cost-of-computer-memory-and-storage?country=~OWID_WRL)

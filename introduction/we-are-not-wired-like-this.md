@@ -2,7 +2,7 @@
 
 We evolved, coming from the savanna of Africa.
 
-![](../.gitbook/assets/savanna.png)
+![](https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/savanna.png)
 
 When our ancestors were trying to survive what did it matter what was happening on the far side of the globe? It didn’t.there was no advantage in the Darwinian race. The survival of the fittest required us to focus on dangers that are near. Local.
 
@@ -25,9 +25,9 @@ We need cognitive tools to deal with it.
 * viruses
 * credit card debt
 
-![](<../.gitbook/assets/image (2).png>)
+![](https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/ourworldindata_exponential.png)
 
-![](<../.gitbook/assets/image (6) (1).png>)
+![](https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/expcontinue.png)
 
 
 

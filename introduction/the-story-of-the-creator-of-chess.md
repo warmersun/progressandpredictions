@@ -1,6 +1,6 @@
 # The Story of The Creator of Chess
 
-![](../.gitbook/assets/chess.png)
+![](https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/chess.png)
 
 Have you heard the story of when the king (maharaja) wanted to reward the creator of chess, because he enjoyed the game so much?
 
@@ -16,18 +16,18 @@ The story goes that all the inventor asked for was to put a single grain of whea
 
 [https://www.wolframalpha.com/input/?i=wheat+and+chessboard+problem](https://www.wolframalpha.com/input/?i=wheat+and+chessboard+problem)
 
-{% embed url="https://www.wolframcloud.com/obj/6451c75e-dade-44c2-841b-cdb1c3302e45" %}
+[🔗 https://www.wolframcloud.com/obj/6451c75e-dade-44c2-841b-cdb1c3302e45](https://www.wolframcloud.com/obj/6451c75e-dade-44c2-841b-cdb1c3302e45)
 
 Why don't you look it up on Youtube and post your favorite in the comments?
 
 my favorite:
 
-{% embed url="https://youtu.be/7YQ3CZVV8PU" %}
+[🔗 https://youtu.be/7YQ3CZVV8PU](https://youtu.be/7YQ3CZVV8PU)
 
 bacterial growth is similarly exponential:
 
-{% embed url="https://youtu.be/gEwzDydciWc" %}
+[🔗 https://youtu.be/gEwzDydciWc](https://youtu.be/gEwzDydciWc)
 
 and the famous "Powers of 10"video
 
-{% embed url="https://youtu.be/Ww4gYNrOkkg" %}
+[🔗 https://youtu.be/Ww4gYNrOkkg](https://youtu.be/Ww4gYNrOkkg)

@@ -8,7 +8,7 @@
 
 
 
-![](https://media1-production-mightynetworks.imgix.net/asset/34809131/1644268335652.png?ixlib=rails-0.3.0\&fm=jpg\&q=75\&auto=format\&w=1400\&h=1400\&fit=max\&impolicy=ResizeCrop\&constraint=downsize\&aspect=fit)
+![](https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/kasparov.png)
 
 
 
@@ -28,8 +28,8 @@ The ranking is:
 
 
 
-![](https://media1-production-mightynetworks.imgix.net/asset/34809000/kasparowslaw.png?ixlib=rails-0.3.0\&fm=jpg\&q=75\&auto=format\&w=1400\&h=1400\&fit=max\&impolicy=ResizeCrop\&constraint=downsize\&aspect=fit)
+![](https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/kasparowslaw.png)
 
-{% embed url="https://youtu.be/NP8xt8o4_5Q" %}
+[🔗 https://youtu.be/NP8xt8o4_5Q](https://youtu.be/NP8xt8o4_5Q)
 
-{% embed url="https://youtu.be/zhkTHkIZJEc" %}
+[🔗 https://youtu.be/zhkTHkIZJEc](https://youtu.be/zhkTHkIZJEc)

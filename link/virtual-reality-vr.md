@@ -1,6 +1,6 @@
 # Virtual Reality (VR)
 
-![VR goggles](../.gitbook/assets/vr.png)
+![VR goggles](https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/vr.png)
 
 The main idea here is that us, humans we experience the world through our senses; and if we can trick our senses through the use of some technology then we can change our experience and create new, imagined, virtual **experiences**.
 
@@ -10,7 +10,7 @@ The five senses are commonly believed to be vision, hearing, smell, taste and to
 
 Tricking the ears is quite easy. Think about how you can listen to music even though there are no _real_ musicians nearby. It just comes from the speakers. How many people listen to virtual sounds on the public transit through their airpods and headphones - instead of listening to the real world?
 
-![girl listening to virtual sounds](<../.gitbook/assets/public transit.png>)
+![girl listening to virtual sounds](https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/public transit.png)
 
 ### Spatial Audio
 
@@ -18,7 +18,7 @@ In the real world we assign spatial information to sounds. If you're on my left 
 
 See High Fidelity a company offering develpment kit to build spatial audio experiences. They had an interesting pivot, narrowing their focus on on spatial audio after being too early to the VR market. They had cool, record breaking shared social VR experiences.
 
-{% embed url="https://www.highfidelity.com" %}
+[🔗 https://www.highfidelity.com](https://www.highfidelity.com)
 
 ## Vision
 
@@ -30,7 +30,7 @@ The resolution of the human eye is 576 megapixels. If we put a 4K screen in fron
 
 Touch can be tricked we so called haptics.
 
-![](<../.gitbook/assets/image (4).png>)
+![](https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/oldvr.png)
 
 ## What About Smell and Taste?&#x20;
 
@@ -39,5 +39,5 @@ Actually, when we taste food much of the tasting we attribute to our tongue actu
 Is it possible to recreate any smell the way we build up any color from Red, Green and Blue (RGB)?\
 Some research indicates it is.
 
-{% embed url="https://www.weizmann-usa.org/news-media/in-the-news/digitizing-odors-israelis-whiff-the-future-with-smellophone-tech-breakthrough" %}
+[🔗 https://www.weizmann-usa.org/news-media/in-the-news/digitizing-odors-israelis-whiff-the-future-with-smellophone-tech-breakthrough](https://www.weizmann-usa.org/news-media/in-the-news/digitizing-odors-israelis-whiff-the-future-with-smellophone-tech-breakthrough)
 

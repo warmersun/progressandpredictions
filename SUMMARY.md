@@ -33,7 +33,7 @@
 * [Introduction](mover/introduction.md)
 * [Connecting All 7+ Billion People](mover/connecting-all-7+-billion-people.md)
 * [😅 Self-Driving Vehicles](mover/self-driving-vehicles/README.md)
-  * [our collection](https://warmersun.notion.site/Self-Driving-Vehicles-9dec5067ed1e4a84821b55cb56eca02b)
+  * [our collection](mover/self-driving-vehicles/self-driving-vehicle-collection.md)
 * [Flying Cars](mover/flying-cars/README.md)
   * [our collection](https://warmersun.notion.site/Drones-2d593d5cd3604edab1326180cdd68bf0)
 * [Point to Point](mover/point-to-point.md)
@@ -54,6 +54,7 @@
 * [Hallmarks of Aging](lifeforce/hallmarks-of-aging.md)
 * [Cultured Meat](lifeforce/cultured-meat.md)
 * [Plant Based Meat (Meet?)](lifeforce/plant-based-meat-meet.md)
+* [Fermentation](lifeforce/fermentation.md)
 * [😅 Can We Live Forever? Should We?](lifeforce/can-we-live-forever-should-we.md)
 
 ## link

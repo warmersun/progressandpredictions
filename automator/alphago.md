@@ -2,7 +2,7 @@
 
 Go is an ancient board game with a rich history. It's believed to be the oldest board game continuously played to present day. It was invented in China, more than 2500 years ago. Go was considered one of the four essential arts of the cultured aristocratic Chinese scholars in antiquity.  ([Wikipedia](https://en.wikipedia.org/wiki/Go\_\(game\)))
 
-![](https://media1-production-mightynetworks.imgix.net/asset/34678352/1644008245308.png?ixlib=rails-0.3.0\&fm=jpg\&q=75\&auto=format\&w=1400\&h=1400\&fit=max\&impolicy=ResizeCrop\&constraint=downsize\&aspect=fit)
+![](https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/go.png)
 
 What interesting is that the number of possible moves and counter moves makes it more complex than chess. the number of possible board positions in Go is approximately 2.1 \* 10^170
 
@@ -30,4 +30,4 @@ And then came the generalized zero version that can do the same thing for other 
 
 You can watch the full award winning documentary on YouTube
 
-{% embed url="https://youtu.be/WXuK6gekU1Y" %}
+[🔗 https://youtu.be/WXuK6gekU1Y](https://youtu.be/WXuK6gekU1Y)

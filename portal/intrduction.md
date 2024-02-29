@@ -2,13 +2,15 @@
 
 
 
-![3D printing](https://media1-production-mightynetworks.imgix.net/asset/34429585/tile\_3Dprinting.png?ixlib=rails-0.3.0\&fm=jpg\&q=75\&auto=format\&w=1400\&h=1400\&fit=max\&impolicy=ResizeCrop\&constraint=downsize\&aspect=fit)
+![3D printing](https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/3dprinting.png)
 
 
 
-![Internet of Things (IOT)](https://media1-production-mightynetworks.imgix.net/asset/34429602/tile\_IOT.png?ixlib=rails-0.3.0\&fm=jpg\&q=75\&auto=format\&w=1400\&h=1400\&fit=max\&impolicy=ResizeCrop\&constraint=downsize\&aspect=fit)
+![Internet of Things (IOT)](https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/iot.png)
 
 The **Portal** is the power to go back and forth between the real word, the world of atoms and the imagined world, the world of bits.&#x20;
+
+![Convergence Canvas Portal](https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/Convergence+Canvas+Portal.png)
 
 The _Internet of Things (IOT)_ give the ability to sense the real world - microphones to hear, cameras to see etc. - so that those measurements become information.&#x20;
 

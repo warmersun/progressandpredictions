@@ -2,14 +2,11 @@
 
 Even the pioneers of personal computing almost missed the boat in realizing the similar exponential growth of network communications.
 
-![](<../../.gitbook/assets/image (4) (1).png>)
+![](https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/gates_and_jobs.png)
 
 ## Bill Gates memo 1995: the Internet Tidal Wave
 
-{% embed url="https://lettersofnote.com/2011/07/22/the-internet-tidal-wave" %}
-Gates memo
-{% endembed %}
-
+[Gates memo](https://lettersofnote.com/2011/07/22/the-internet-tidal-wave)
 Gates was playing catch-up with Netscape - the first version of the browser launched in late 1994... and thus the browser wars had begun.
 
 Even the pioneer of personal computing almost missed the boat in realizing the similar exponential growth of network communications.

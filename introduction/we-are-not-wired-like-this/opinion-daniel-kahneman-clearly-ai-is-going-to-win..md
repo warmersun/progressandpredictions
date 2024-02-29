@@ -1,8 +1,8 @@
 # Opinion: Daniel Kahneman: ‘Clearly AI is going to win.'
 
-{% embed url="https://www.theguardian.com/books/2021/may/16/daniel-kahneman-clearly-ai-is-going-to-win-how-people-are-going-to-adjust-is-a-fascinating-problem-thinking-fast-and-slow" %}
+[🔗 https://www.theguardian.com/books/2021/may/16/daniel-kahneman-clearly-ai-is-going-to-win-how-people-are-going-to-adjust-is-a-fascinating-problem-thinking-fast-and-slow](https://www.theguardian.com/books/2021/may/16/daniel-kahneman-clearly-ai-is-going-to-win-how-people-are-going-to-adjust-is-a-fascinating-problem-thinking-fast-and-slow)
 
-![](<../../.gitbook/assets/image (3) (1) (1).png>)
+![](https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/kahneman.png)
 
 Daniel Kahneman, 87, was awarded the Nobel prize in economics in 2002 for his work on the psychology of judgment and decision-making. His first book, Thinking, Fast and Slow, a worldwide bestseller, set out [his revolutionary ideas about human error and bias](https://www.theguardian.com/science/2014/feb/16/daniel-kahneman-thinking-fast-and-slow-tributes) and how those traits might be recognised and mitigated. A new book, Noise: A Flaw in Human Judgment, written with Olivier Sibony and Cass R Sunstein, applies those ideas to organisations. This interview took place last week by Zoom with Kahneman at his home in New York.
 

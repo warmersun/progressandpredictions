@@ -1,8 +1,10 @@
 # Introduction
 
-![Virtual Reality](<../.gitbook/assets/tile ARVR.png>)
+![Virtual Reality](https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/ARVR.png)
 
 The **Link** is the power to overlay the two realms on one another.
+
+![Convergence Canvas Link](https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/Convergence+Canvas+Link.png)
 
 &#x20;
 

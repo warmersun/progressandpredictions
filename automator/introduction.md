@@ -2,11 +2,11 @@
 
 
 
-![Artificial intelligence (AI)](https://media1-production-mightynetworks.imgix.net/asset/34429228/tile\_AI.png?ixlib=rails-0.3.0\&fm=jpg\&q=75\&auto=format\&w=1400\&h=1400\&fit=max\&impolicy=ResizeCrop\&constraint=downsize\&aspect=fit)
+![Artificial intelligence (AI)](https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/AI.png)
 
 
 
-![Robots](https://media1-production-mightynetworks.imgix.net/asset/34429264/tile\_Robot.png?ixlib=rails-0.3.0\&fm=jpg\&q=75\&auto=format\&w=1400\&h=1400\&fit=max\&impolicy=ResizeCrop\&constraint=downsize\&aspect=fit)
+![Robots](https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/robot.png)
 
 We can think about each emerging technology as a **superpower**.
 
@@ -22,3 +22,9 @@ The **Automator** is the power to _automate_ things. In the world of bits and in
 _Artificial Intelligence (AI_) and _Robots_ give the abilities for automation.&#x20;
 
 (Of course they both rely on Computing as well as other things like _Energy._)
+
+---
+
+In the _Convergence Canvas_, a visual thinking tool we'll introduce later, automator fits as this:
+
+![Convergence Canvas Automator](https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/Convergence+Canvas+Automator.png)

@@ -1,6 +1,6 @@
 # Quantum Computing
 
-![](<../.gitbook/assets/image (6).png>)
+![](https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/quantumcomputer.png)
 
 Classical computers work with _bits_ of information. At the most atomic level there is something that is true or false, 1 or 0, black or white.
 
@@ -10,7 +10,7 @@ They allow applications where instead of doing a calculation for for a large num
 
 This is a great explainer from 2016
 
-{% embed url="https://youtu.be/LP__QwGZScg" %}
+[🔗 https://youtu.be/LP__QwGZScg](https://youtu.be/LP__QwGZScg)
 
 ## Quantum Supremacy
 
@@ -18,10 +18,7 @@ The term quantum supremacy means a point in time where quantum computers have re
 
 So far Google and the University of Science and Technology of China have claimed to reach quantum supremacy.
 
-{% embed url="https://youtu.be/-ZNEzzDcllU" %}
-Google: Demonstrating Quantum Supremacy
-{% endembed %}
-
+[🔗 Google: Demonstrating Quantum Supremacy](https://youtu.be/-ZNEzzDcllU)
 ### Applications
 
 so what is this super fast computing good for?
@@ -52,22 +49,12 @@ One application is _secure communications_ that is physically guaranteed to rema
 
 Cloud providers now each allow people to access quantum computers
 
-{% embed url="https://aws.amazon.com/braket" %}
-AWS
-{% endembed %}
+[🔗 AWS](https://aws.amazon.com/braket)
 
-{% embed url="https://azure.microsoft.com/en-us/services/quantum" %}
-Azure Cloud
-{% endembed %}
+[🔗 Azure Cloud](https://azure.microsoft.com/en-us/services/quantum)
 
-{% embed url="https://quantumai.google" %}
-Google Cloud
-{% endembed %}
+[🔗 Google Cloud](https://quantumai.google)
 
-{% embed url="https://cloud.ibm.com/quantum" %}
-IBM Cloud
-{% endembed %}
+[🔗 IBM Cloud](https://cloud.ibm.com/quantum)
 
-{% embed url="https://www.dwavesys.com/solutions-and-products/cloud-platform" %}
-D-Wave
-{% endembed %}
+[🔗 D-Wave](https://www.dwavesys.com/solutions-and-products/cloud-platform)

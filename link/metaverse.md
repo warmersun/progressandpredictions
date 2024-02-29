@@ -4,4 +4,4 @@
 > \
 > The Metaverse- Matthew Ball
 
-{% embed url="https://youtu.be/cSp1dM2Vj48" %}
+[🔗 https://youtu.be/cSp1dM2Vj48](https://youtu.be/cSp1dM2Vj48)

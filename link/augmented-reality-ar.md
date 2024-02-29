@@ -10,13 +10,13 @@ Some newer devices allow to go from one end to the other, to gradually dim out t
 
 &#x20;this AR game where people chased Pokemon creatures all around the citis.
 
-![](<../.gitbook/assets/pokemon go.png>)
+![](https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/pokemon go.png)
 
 ### HoloLens
 
 Microsoft's VR headset is in the AR category.
 
-![Hololens](../.gitbook/assets/hololens.png)
+![Hololens](https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/hololens.png)
 
 It's easy to see how useful this can be...
 
@@ -29,4 +29,4 @@ It's easy to see how useful this can be...
 The urban legend goes like this:\
 after giving a demo to the investors they were invited into a conference room here coffee wold be served. When they reached for the coffee mug their hand went through the projection. The coffee wasn't real. Next they reached for their checkbooks.
 
-![](<../.gitbook/assets/magic leap.png>)
+![](https://s3.amazonaws.com/img.courses.warmersun.com/progressandpredictions/magic leap.png)
